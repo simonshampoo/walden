@@ -8,9 +8,9 @@ in the words of Henry David Thoreau, "Simplicity, simplicity, simplicity! I say,
 TODO: 
   - pull cute aesthetic backgrounds from some api online instead of just current two 
   - pull different motivational (but not corny) quotes instead of just current two 
-  - implement backend (mongo,express (but thats after one of the TODO TODO's are implemented))
+  - implement backend (mongo,express (but thats after one of the BIGBOY TODO's are implemented))
 
-TODO TODO (different sections of webapp // menu at top): 
+BIGBOY TODO (different sections of webapp // menu at top): 
   - calendar, scheduling, todo app (but making it unique)
   - daily affirmation/end of day reflection journal 
   - book/movie/show recommendations using answers from 10 questions-- use some type of basic ML (spotify API? does netflix have an API?) to get user mood then recommend stuff 
