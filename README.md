@@ -13,4 +13,7 @@ TODO:
 TODO TODO (different sections of webapp // menu at top): 
   - calendar, scheduling, todo app (but making it unique)
   - daily affirmation/end of day reflection journal 
-  - book/movie/show recommendations using answers from 10 questions-- use some type of basic ML to get user mood then recommend stuff 
+  - book/movie/show recommendations using answers from 10 questions-- use some type of basic ML (spotify API? does netflix have an API?) to get user mood then recommend stuff 
+
+
+https://towardsdatascience.com/netflix-show-recommendations-using-twitters-api-and-python-65f347706617
