@@ -7,9 +7,14 @@ in the words of Henry David Thoreau, "Simplicity, simplicity, simplicity! I say,
 only functionality thus far is a simple weather app but i promise this will turn into something huge and spectacular 😅
 
 
+https://walden.netlify.app/
+
+start by typing in any city in the search bar at the top of the screen
+
 ---
 
 TODO: 
+  - [ ] change so background changes based on time of the user inputted city
   - [ ] pull cute aesthetic backgrounds from some api online instead of just current two 
   - [ ] pull different motivational (but not corny) quotes instead of just current two 
   - [ ] implement backend (mongo,express (but thats after one of the Roadmap stuff are implemented))
