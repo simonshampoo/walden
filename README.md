@@ -14,7 +14,7 @@ start by typing in any city in the search bar at the top of the screen
 ---
 
 TODO: 
-  - [ ] change so background changes based on time of the user inputted city
+  - [ ] change so background changes based on time of the user inputted city, rather than time of the user's pc
   - [ ] pull cute aesthetic backgrounds from some api online instead of just current two 
   - [ ] pull different motivational (but not corny) quotes instead of just current two 
   - [ ] implement backend (mongo,express (but thats after one of the Roadmap stuff are implemented))
