@@ -8,9 +8,9 @@ in the words of Henry David Thoreau, "Simplicity, simplicity, simplicity! I say,
 ---
 
 TODO: 
-  - pull cute aesthetic backgrounds from some api online instead of just current two 
-  - pull different motivational (but not corny) quotes instead of just current two 
-  - implement backend (mongo,express (but thats after one of the Roadmap stuff are implemented))
+  - [ ] pull cute aesthetic backgrounds from some api online instead of just current two 
+  - [ ] pull different motivational (but not corny) quotes instead of just current two 
+  - [ ] implement backend (mongo,express (but thats after one of the Roadmap stuff are implemented))
 
 Roadmap (different sections of webapp // menu at top): 
   - [ ] calendar, scheduling, todo component (but making it unique)
