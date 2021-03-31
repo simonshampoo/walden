@@ -20,6 +20,7 @@ TODO:
   - [ ] implement backend (mongo,express (but thats after one of the Roadmap stuff are implemented))
 
 Roadmap (different sections of webapp // menu at top): 
+  - [ ] user profiles
   - [ ] calendar, scheduling, todo component (but making it unique)
   - [ ] daily affirmation/end of day reflection journal component
   - [ ] book/movie/show recommendations component using answers from 10 questions-- use some type of basic ML (spotify API? does netflix have an API?) to get user mood then recommend stuff 
