@@ -1,12 +1,6 @@
 # walden
 a minimalist react web application aimed to reduce the clutter in life
 
-
-in the words of Henry David Thoreau, "Simplicity, simplicity, simplicity! I say, let your affairs be as two or three, and not a hundred or a thousand; instead of a million count half a dozen, and keep your accounts on your thumb nail."
-
-only functionality thus far is a simple weather app but i promise this will turn into something huge and spectacular 😅
-
-
 https://walden.netlify.app/
 
 start by typing in any city in the search bar at the top of the screen
